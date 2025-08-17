@@ -17,7 +17,8 @@ Many students are unsure of which IT career to pursue after graduation. SkillBri
 
 ## 📸 Preview
 
-*Coming Soon: UI Screenshots or Live Demo Link*
+*Live Demo Link* <br/>
+https://skill-bridge-rouge.vercel.app/
 
 ---
 
